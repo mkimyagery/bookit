@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7914765-cd14-484d-8100-067b3cff7db4" name="Default Changelist" comment="" />
+    <list default="true" id="e7914765-cd14-484d-8100-067b3cff7db4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -70,6 +77,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2321" y="386" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1594048721352">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2321" y="386" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1594048721352" />
     <state width="1238" height="204" key="GridCell.Tab.0.bottom" timestamp="1593985827541">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
