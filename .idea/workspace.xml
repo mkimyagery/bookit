@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7914765-cd14-484d-8100-067b3cff7db4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e7914765-cd14-484d-8100-067b3cff7db4" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +18,37 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="mybookit" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -29,6 +59,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1eHabu7BtSlzzJ69gySigXZdBbe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,6 +67,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager">
@@ -74,13 +106,25 @@
       <option name="presentableId" value="Default" />
       <updated>1593981046883</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1594052496808</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594052496808</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2321" y="386" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1594048721352">
-      <screen x="1600" y="0" width="1920" height="1040" />
+    <state x="250" y="5" key="CommitChangelistDialog2" timestamp="1594052968948">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="2321" y="386" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1594048721352" />
+    <state x="250" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1594052968948" />
     <state width="1238" height="204" key="GridCell.Tab.0.bottom" timestamp="1593985827541">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -97,9 +141,9 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="204" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1593985827540" />
-    <state x="0" y="39" key="SettingsEditor" timestamp="1593983588024">
+    <state x="0" y="39" key="SettingsEditor" timestamp="1594049925902">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="0" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1593983588024" />
+    <state x="0" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1594049925902" />
   </component>
 </project>
