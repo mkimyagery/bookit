@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7914765-cd14-484d-8100-067b3cff7db4" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bookit/pages/HalfDomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bookit/tests/HalfDome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bookit/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bookit/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bookit/pages/PageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bookit/pages/PageBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bookit/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bookit/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bookit/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bookit/tests/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bookit/tests/login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bookit/tests/login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bookit/utilities/BrowserUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bookit/utilities/BrowserUtils$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bookit/utilities/BrowserUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bookit/utilities/BrowserUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bookit/utilities/ConfigurationReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bookit/utilities/ConfigurationReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bookit/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bookit/utilities/Driver.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,18 +71,60 @@
     </option>
   </component>
   <component name="ProjectId" id="1eHabu7BtSlzzJ69gySigXZdBbe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.HalfDome.testcase1">
+    <configuration name="HalfDome.testcase1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="bookit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bookit.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bookit.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.bookit.tests.HalfDome" />
+      <option name="METHOD_NAME" value="testcase1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="login.login (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="bookit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bookit.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bookit.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.bookit.tests.login" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="login.login" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BookItTestNgProject" />
       <extension name="coverage">
@@ -91,6 +145,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.HalfDome.testcase1" />
+        <item itemvalue="TestNG.login.login (1)" />
         <item itemvalue="TestNG.login.login" />
       </list>
     </recent_temporary>
@@ -117,6 +173,7 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
@@ -125,25 +182,34 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="250" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1594052968948" />
-    <state width="1238" height="204" key="GridCell.Tab.0.bottom" timestamp="1593985827541">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1540" height="220" key="GridCell.Tab.0.bottom" timestamp="1594065899260">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1238" height="204" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1593985827541" />
-    <state width="1238" height="204" key="GridCell.Tab.0.center" timestamp="1593985827539">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1540" height="220" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1594065899260" />
+    <state width="1540" height="220" key="GridCell.Tab.0.center" timestamp="1594065899260">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1238" height="204" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1593985827539" />
-    <state width="1238" height="204" key="GridCell.Tab.0.left" timestamp="1593985827538">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1540" height="220" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1594065899260" />
+    <state width="1540" height="220" key="GridCell.Tab.0.left" timestamp="1594065899260">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1238" height="204" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1593985827538" />
-    <state width="1238" height="204" key="GridCell.Tab.0.right" timestamp="1593985827540">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1540" height="220" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1594065899260" />
+    <state width="1540" height="220" key="GridCell.Tab.0.right" timestamp="1594065899260">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1238" height="204" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1593985827540" />
-    <state x="0" y="39" key="SettingsEditor" timestamp="1594049925902">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1540" height="220" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1594065899260" />
+    <state x="0" y="9" key="SettingsEditor" timestamp="1594065302415">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="0" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1594049925902" />
+    <state x="0" y="9" key="SettingsEditor/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1594065302415" />
+    <state x="2285" y="311" key="git4idea.merge.GitPullDialog" timestamp="1594053997528">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2285" y="311" key="git4idea.merge.GitPullDialog/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1594053997528" />
   </component>
 </project>

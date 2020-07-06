@@ -1,7 +1,5 @@
 package com.bookit.pages;
 
-
-
 import com.bookit.utilities.ConfigurationReader;
 import com.bookit.utilities.Driver;
 import org.openqa.selenium.WebElement;

@@ -51,10 +51,6 @@ public abstract class PageBase {
     public WebElement bookit;
 
 
-
-
-
-
     public PageBase() {
         PageFactory.initElements(Driver.get(), this);
     }
