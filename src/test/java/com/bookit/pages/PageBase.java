@@ -16,6 +16,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public abstract class PageBase {
 
 
+
     @FindBy(xpath = "//*[@class='navbar-item is-active']")
     public WebElement map;
 
@@ -49,8 +50,6 @@ public abstract class PageBase {
 
     @FindBy(xpath = "//img[@class='intro-img']")
     public WebElement bookit;
-
-
 
 
 

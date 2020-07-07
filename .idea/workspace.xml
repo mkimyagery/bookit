@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7914765-cd14-484d-8100-067b3cff7db4" name="Default Changelist" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bookit/pages/MapBage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bookit/pages/MapBage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bookit/pages/PageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bookit/pages/PageBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +148,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="250" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1594052968948" />
+    <state x="431" y="118" key="FileChooserDialogImpl" timestamp="1594123552989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="431" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594123552989" />
     <state width="1238" height="204" key="GridCell.Tab.0.bottom" timestamp="1593985827541">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
